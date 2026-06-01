@@ -1,0 +1,22 @@
+# Unreal
+Binaries/...
+Binaries/***
+
+DerivedDataCache/...
+DerivedDataCache/***
+
+Intermediate/...
+Intermediate/***
+
+Saved/...
+Saved/***
+
+# IDE
+.vs/...
+.vs/***
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
+
